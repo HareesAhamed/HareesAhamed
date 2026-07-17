@@ -8,7 +8,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Harees%20Ahamed&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Java%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- 2. PROFILE PICTURE --------------------------------------------->
-<img src="https://github.com/HareesAhamed.png" width="150" height="150" style="border-radius:50%;" alt="Harees Ahamed"/>
+<img src="https://www.magnific.com/free-photos-vectors/github-profile" width="150" height="150" style="border-radius:50%;" alt="Harees Ahamed"/>
 
 <h2>Harees Ahamed</h2>
 
@@ -41,28 +41,6 @@
 - 🎯 Objective: To build scalable, real-world software while growing as an engineer who writes maintainable, efficient code
 
 <br clear="right"/>
-
-<!-- ================================================================
-     5. GITHUB STATS
-     ================================================================ -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=HareesAhamed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HareesAhamed&theme=tokyonight&hide_border=true" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HareesAhamed&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HareesAhamed&theme=tokyo-night&hide_border=true" width="100%"/>
-
-</div>
-
-<br/>
 
 <!-- ================================================================
      6. CONNECT WITH ME
