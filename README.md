@@ -1,6 +1,5 @@
 <!-- ================================================================
      HAREES AHAMED — GITHUB PROFILE README
-     Replace placeholder links (YOUR_..._HERE) with your real ones.
      ================================================================ -->
 
 <div align="center">
@@ -8,21 +7,24 @@
 <!-- 1. ANIMATED HEADER / BANNER ---------------------------------- -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Harees%20Ahamed&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Java%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
-<b>Hi there, I'm Harees — welcome to my profile!</b>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+<!-- 2. PROFILE PICTURE --------------------------------------------->
+<img src="https://github.com/HareesAhamed.png" width="150" height="150" style="border-radius:50%;" alt="Harees Ahamed"/>
 
-<!-- 2. TYPING ANIMATION -------------------------------------------->
+<h2>Harees Ahamed</h2>
+
+<!-- 3. TYPING ANIMATION -------------------------------------------->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Data+Science+Student;Java+Developer;Full+Stack+Developer;DSA+Enthusiast;Open+Source+Learner;Software+Engineer&font=Fira+Code&center=true&width=600&height=50&duration=3000&pause=800&color=58A6FF&vCenter=true&size=27&multiline=false" alt="Typing SVG" />
 </a>
+
+<img src="https://komarev.com/ghpvc/?username=HareesAhamed&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile Views"/>
 
 </div>
 
 <br/>
 
 <!-- ================================================================
-     3. ABOUT ME
+     4. ABOUT ME
      ================================================================ -->
 ## 🚀 About Me
 
@@ -41,7 +43,29 @@
 <br clear="right"/>
 
 <!-- ================================================================
-     4. CONNECT WITH ME
+     5. GITHUB STATS
+     ================================================================ -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=HareesAhamed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HareesAhamed&theme=tokyonight&hide_border=true" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HareesAhamed&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HareesAhamed&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</div>
+
+<br/>
+
+<!-- ================================================================
+     6. CONNECT WITH ME
      ================================================================ -->
 ## 🤝 Connect With Me
 
@@ -50,19 +74,18 @@
 <a href="https://www.linkedin.com/in/harees-ahamed-k" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:hareesahamed63@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 <a href="https://leetcode.com/u/Harees_Ahamed/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
+
+**📧 Email:** hareesahamed63@gmail.com
 
 </div>
 
 <br/>
 
 <!-- ================================================================
-     5. TECH STACK
+     7. TECH STACK
      ================================================================ -->
 ## 🛠️ Tech Stack
 
@@ -93,7 +116,7 @@
 <br/>
 
 <!-- ================================================================
-     6. CURRENT / FEATURED PROJECTS
+     8. FEATURED PROJECTS
      ================================================================ -->
 ## 💻 Featured Projects
 
@@ -146,7 +169,7 @@
 <br/>
 
 <!-- ================================================================
-     7. ACHIEVEMENTS
+     9. ACHIEVEMENTS
      ================================================================ -->
 ## 🏆 Achievements
 
@@ -169,11 +192,11 @@
 <br/>
 
 <!-- ================================================================
-     9. QUOTE SECTION
+     10. QUOTE SECTION
      ================================================================ -->
 <div align="center">
 
-### 💬 
+### 💬
 
 *"The only way to learn a new programming language is by writing programs in it."*
 — **Dennis Ritchie**
@@ -183,7 +206,7 @@
 <br/>
 
 <!-- ================================================================
-     10. FOOTER
+     11. FOOTER
      ================================================================ -->
 <div align="center">
 
