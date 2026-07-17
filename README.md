@@ -17,11 +17,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Data+Science+Student;Java+Developer;Full+Stack+Developer;DSA+Enthusiast;Open+Source+Learner;Software+Engineer&font=Fira+Code&center=true&width=600&height=50&duration=3000&pause=800&color=58A6FF&vCenter=true&size=27&multiline=false" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<!-- Profile visitor counter (badge is duplicated near footer too) -->
-<img src="https://komarev.com/ghpvc/?username=HareesAhamed&label=Profile%20Views&color=58A6FF&style=flat-square" alt="profile views"/>
-
 </div>
 
 <br/>
@@ -52,20 +47,14 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/harees-ahamed-k" target="_blank">
+<a href="https://www.linkedin.com/in/harees-ahamed-k" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="YOUR_PORTFOLIO_URL_HERE" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="mailto:hareesahamed63@gmail.com" target="_blank">
+<a href="mailto:hareesahamed63@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://leetcode.com/u/Harees_Ahamed/" target="_blank">
+<a href="https://leetcode.com/u/Harees_Ahamed/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-<a href="https://github.com/HareesAhamed" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -119,9 +108,6 @@
 
 `PostgreSQL` `Git` `GitHub` `AI/ML`
 
-<!-- 🔗 Replace with your repo link -->
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](YOUR_PREPIQ_REPO_URL_HERE)
-
 </details>
 
 <br/>
@@ -137,8 +123,6 @@
 - 🎨 Designed a **responsive frontend** integrated with backend APIs
 
 `React` `Node.js` `Express`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](YOUR_FITNESS_TRACKER_REPO_URL_HERE)
 
 </details>
 
@@ -157,38 +141,12 @@
 
 `Spring Boot` `MySQL` `JPA/Hibernate` `JWT` `Swagger`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](YOUR_JOB_PORTAL_REPO_URL_HERE)
-
 </details>
 
 <br/>
 
 <!-- ================================================================
-     7. GITHUB STATISTICS
-     ================================================================ -->
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HareesAhamed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=HareesAhamed&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HareesAhamed&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HareesAhamed&theme=tokyo-night&hide_border=true" width="100%"/>
-
-</div>
-
-> 💡 **Note:** Contribution graph & streak stats update automatically once your GitHub activity is public and these widgets are pointed at your username.
-
-<br/>
-
-<!-- ================================================================
-     8. ACHIEVEMENTS
+     7. ACHIEVEMENTS
      ================================================================ -->
 ## 🏆 Achievements
 
@@ -215,44 +173,17 @@
      ================================================================ -->
 <div align="center">
 
-### 💬
+### 💬 
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
-<br/>
-
-<!-- ================================================================
-     10. VISITOR COUNTER (also shown at top)
-     ================================================================ -->
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=HareesAhamed&label=Visitor%20Count&color=58A6FF&style=for-the-badge" alt="visitor badge"/>
+*"The only way to learn a new programming language is by writing programs in it."*
+— **Dennis Ritchie**
 
 </div>
 
 <br/>
 
 <!-- ================================================================
-     11. SNAKE CONTRIBUTION ANIMATION
-     ================================================================ -->
-<div align="center">
-
-<!--
-  🐍 To enable this animation on your real profile:
-  1. Create a GitHub Actions workflow using Platane/snk in your profile repo
-  2. It will generate an SVG at the output path below on a schedule
-  Docs: https://github.com/Platane/snk
--->
-<img src="https://raw.githubusercontent.com/HareesAhamed/HareesAhamed/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake contribution animation placeholder"/>
-
-</div>
-
-<br/>
-
-<!-- ================================================================
-     12. FOOTER
+     10. FOOTER
      ================================================================ -->
 <div align="center">
 
