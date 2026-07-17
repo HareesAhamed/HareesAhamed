@@ -7,9 +7,6 @@
 <!-- 1. ANIMATED HEADER / BANNER ---------------------------------- -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Harees%20Ahamed&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Java%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<!-- 2. PROFILE PICTURE --------------------------------------------->
-<img src="https://www.magnific.com/free-photos-vectors/github-profile" width="150" height="150" style="border-radius:50%;" alt="Harees Ahamed"/>
-
 <h2>Harees Ahamed</h2>
 
 <!-- 3. TYPING ANIMATION -------------------------------------------->
